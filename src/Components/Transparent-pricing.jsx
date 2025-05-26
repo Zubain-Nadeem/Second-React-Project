@@ -3,7 +3,7 @@ import HouseImage from "../assets/Transparent-section-images/home-image.svg";
 const Transparent = () => {
   return (
     <div>
-      <section className="bg-[#1F1B17] w-full h-[685px] py-[20px] px-[40px]">
+      <section className="bg-[#1F1B17] w-full h-[685px] py-[40px] px-[40px]">
         <h1 className="text-white text-3xl text-center font-bold mb-[90px]
         ">
           TRANSPARENT PRICING
