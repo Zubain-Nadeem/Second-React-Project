@@ -4,6 +4,8 @@ import Transparent from "./Components/Transparent-pricing";
 import About from "./Components/About-us";
 import Utilization from "./Components/Utilization";
 import Solar from "./Components/Solar-Saver";
+import BeforAfter from "./Components/Befor-After"
+import Equiment from "./Components/Equiment";
 
 const App = () => {
   return (
@@ -14,6 +16,8 @@ const App = () => {
       <About />
       <Utilization />
       <Solar />
+      <BeforAfter />
+      <Equiment />
     </div>
   );
 };
