@@ -6,6 +6,7 @@ import Utilization from "./Components/Utilization";
 import Solar from "./Components/Solar-Saver";
 import BeforAfter from "./Components/Befor-After"
 import Equiment from "./Components/Equiment";
+import Ready from "./Components/Ready";
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <Solar />
       <BeforAfter />
       <Equiment />
+      <Ready />
     </div>
   );
 };
