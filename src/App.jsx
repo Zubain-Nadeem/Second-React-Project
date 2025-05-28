@@ -7,6 +7,7 @@ import Solar from "./Components/Solar-Saver";
 import BeforAfter from "./Components/Befor-After"
 import Equiment from "./Components/Equiment";
 import Ready from "./Components/Ready";
+import Footer from "./Components/Footer";
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
       <BeforAfter />
       <Equiment />
       <Ready />
+      <Footer />
     </div>
   );
 };
